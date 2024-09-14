@@ -1,0 +1,15 @@
+.box{
+    display: flex;
+    text-align: center;
+    align-items: center;
+   gap: 50px    ;
+  margin-top: 300px;
+  font-size: 40px;
+margin-left: 650px;
+background-color:black;
+border: none;
+border-radius: 20px;
+color: white;
+width: 270px;
+padding: 20px;
+}
